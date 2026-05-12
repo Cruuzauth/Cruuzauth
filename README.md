@@ -165,11 +165,7 @@ Release description:
 Initial release with C++, Java and Android SDK examples.
 ```
 
-Attach:
 
-```text
-CruuzAuth_GitHub_Repo_Ready.zip
-```
 
 ## Security
 
